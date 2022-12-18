@@ -1,0 +1,1 @@
+# Sohna-Ctrl-Spatiotemporal-Action-Detection-in-Thermal-Videos
